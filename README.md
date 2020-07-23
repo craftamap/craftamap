@@ -12,6 +12,21 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 - [craftamap/atlas-gonnect-confluence-example](https://github.com/craftamap/atlas-gonnect-confluence-example) - An example showing on howto work with github.com/craftamap/altas-gonnect
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang
 
+#### 📜 My recent blog posts
+
+
+- [Luftdaten selber messen! - Teil 3: Was ist Feinstaub und die Auswertung des Sensors](https://dev.siegelfabian.de/posts/2018/02/luftdaten3/) (2 years ago)
+- [Luftdaten selber messen! - Teil 2: Zusammenbauen](https://dev.siegelfabian.de/posts/2018/02/luftdaten2/) (2 years ago)
+- [Luftdaten selber messen! - Teil 1: About](https://dev.siegelfabian.de/posts/2018/02/luftdaten1/) (2 years ago)
+
+#### 🦚 And here's a list of projects I'm proud of
+
+- [Atlas Gonnect](https://dev.siegelfabian.de/projects/2020/atlas-gonnect/) (1 month ago)
+- [LivelyApps pluploader](https://dev.siegelfabian.de/projects/2020/pluploader/) (2 years ago)
+- [Spotimerge](https://dev.siegelfabian.de/projects/2019/spotimerge/) (2 years ago)
+- [18. Landesjugendlager der THW-Jugend Bayern 2018 - Aftermovie #LaJuLa2018](https://dev.siegelfabian.de/projects/2018/lajula/) (2 years ago)
+- [Jung übt sich: Die Retter von morgen | 24h-Übung 2018](https://dev.siegelfabian.de/projects/2018/junguebtsich/) (2 years ago)
+
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/craftamap
