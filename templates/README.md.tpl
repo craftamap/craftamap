@@ -9,6 +9,17 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
+#### 📜 My recent blog posts
+
+{{range rss "https://siegelfabian.de/posts/index.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+#### 🦚 And here's a list of projects I'm proud of
+{{range rss "https://siegelfabian.de/projects/index.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/craftamap
