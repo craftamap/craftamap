@@ -21,11 +21,11 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🦚 And here's a list of projects I'm proud of
 
+- [soHappy](https://dev.siegelfabian.de/projects/2020/sohappy/) (1 week ago)
 - [Atlas Gonnect](https://dev.siegelfabian.de/projects/2020/atlas-gonnect/) (3 months ago)
 - [LivelyApps pluploader](https://dev.siegelfabian.de/projects/2020/pluploader/) (5 months ago)
 - [Spotimerge](https://dev.siegelfabian.de/projects/2019/spotimerge/) (2 years ago)
 - [18. Landesjugendlager der THW-Jugend Bayern 2018 - Aftermovie #LaJuLa2018](https://dev.siegelfabian.de/projects/2018/lajula/) (2 years ago)
-- [Jung übt sich: Die Retter von morgen | 24h-Übung 2018](https://dev.siegelfabian.de/projects/2018/junguebtsich/) (2 years ago)
 
 #### 📫 How to reach me
 
