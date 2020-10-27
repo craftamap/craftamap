@@ -4,13 +4,27 @@
 
 I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of the pluploader and atlas-gonnect!
 
-#### 🌱 Check out what I'm currently working on
+#### 👷 Check out what I'm currently working on
+
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (6 days ago)
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (6 days ago)
+- [craftamap/bb](https://github.com/craftamap/bb) -  (1 week ago)
+- [teamulster/soHappy](https://github.com/teamulster/soHappy) - This Android app is based on the Remember to smile - design of a mobile affective technology to help promote individual happiness through smiling paper by George Moore, Leo Galway and Mark Donnelly, which theorizes that more frequent genuine smiling can substantially improve happiness. (1 month ago)
+- [teamulster/report](https://github.com/teamulster/report) - This repo complements the soHappy app by further describing its functionality/background. (1 month ago)
+
+#### 🌱 My latest projects
 
 - [craftamap/bb](https://github.com/craftamap/bb) - 
 - [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) - 
 - [craftamap/mago](https://github.com/craftamap/mago) - A git-based money manager written in golang
 - [craftamap/webbone](https://github.com/craftamap/webbone) - 
 - [craftamap/wishbone](https://github.com/craftamap/wishbone) - Go Implementation of the ola sphincter-rfid
+
+#### 🔭 Latest releases I've contributed to
+
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.6.5](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.6.5), 6 days ago) - Bitbucket API library for Golang.
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.6.0-beta.1](https://github.com/livelyapps/pluploader/releases/tag/v0.6.0-beta.1), 6 days ago) - A simple plugin uploader for atlassian server tools written in python
+- [zaquestion/lab](https://github.com/zaquestion/lab) ([v0.17.2](https://github.com/zaquestion/lab/releases/tag/v0.17.2), 10 months ago) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 
 #### 📜 My recent blog posts
 
