@@ -8,7 +8,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 week ago)
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (1 week ago)
-- [craftamap/bb](https://github.com/craftamap/bb) -  (1 week ago)
+- [craftamap/bb](https://github.com/craftamap/bb) -  (2 weeks ago)
 - [teamulster/soHappy](https://github.com/teamulster/soHappy) - This Android app is based on the Remember to smile - design of a mobile affective technology to help promote individual happiness through smiling paper by George Moore, Leo Galway and Mark Donnelly, which theorizes that more frequent genuine smiling can substantially improve happiness. (1 month ago)
 - [teamulster/report](https://github.com/teamulster/report) - This repo complements the soHappy app by further describing its functionality/background. (1 month ago)
 
