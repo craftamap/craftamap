@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.6.5](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.6.5), 1 week ago) - Bitbucket API library for Golang.
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.6.6](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.6.6), today) - Bitbucket API library for Golang.
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.6.0-beta.1](https://github.com/livelyapps/pluploader/releases/tag/v0.6.0-beta.1), 1 week ago) - A simple plugin uploader for atlassian server tools written in python
 - [zaquestion/lab](https://github.com/zaquestion/lab) ([v0.17.2](https://github.com/zaquestion/lab/releases/tag/v0.17.2), 10 months ago) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 
