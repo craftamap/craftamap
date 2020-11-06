@@ -7,18 +7,18 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 👷 Check out what I'm currently working on
 
 - [craftamap/webscraping-generator](https://github.com/craftamap/webscraping-generator) - Various small applications/scripts that can be used for demonstrating various web scraping types (today)
+- [craftamap/fastmac](https://github.com/craftamap/fastmac) -  (today)
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (today)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 day ago)
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (4 days ago)
-- [teamulster/report](https://github.com/teamulster/report) - This repo complements the soHappy app by further describing its functionality/background. (1 month ago)
 
 #### 🌱 My latest projects
 
+- [craftamap/fastmac](https://github.com/craftamap/fastmac) - 
 - [craftamap/webscraping-generator](https://github.com/craftamap/webscraping-generator) - Various small applications/scripts that can be used for demonstrating various web scraping types
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool
 - [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) - 
 - [craftamap/mago](https://github.com/craftamap/mago) - A git-based money manager written in golang
-- [craftamap/webbone](https://github.com/craftamap/webbone) - 
 
 #### 🔭 Latest releases I've contributed to
 
