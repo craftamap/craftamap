@@ -7,14 +7,14 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 👷 Check out what I'm currently working on
 
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 day ago)
-- [craftamap/netzkratzer](https://github.com/craftamap/netzkratzer) -  (1 day ago)
+- [craftamap/netzkratzer](https://github.com/craftamap/netzkratzer) - Netzkratzer shows some simple examples for webscraping (1 day ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (3 days ago)
 - [craftamap/fastmac](https://github.com/craftamap/fastmac) -  (4 days ago)
 - [craftamap/webscraping-generator](https://github.com/craftamap/webscraping-generator) - Various small applications/scripts that can be used for demonstrating various web scraping types (4 days ago)
 
 #### 🌱 My latest projects
 
-- [craftamap/netzkratzer](https://github.com/craftamap/netzkratzer) - 
+- [craftamap/netzkratzer](https://github.com/craftamap/netzkratzer) - Netzkratzer shows some simple examples for webscraping
 - [craftamap/fastmac](https://github.com/craftamap/fastmac) - 
 - [craftamap/webscraping-generator](https://github.com/craftamap/webscraping-generator) - Various small applications/scripts that can be used for demonstrating various web scraping types
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool
