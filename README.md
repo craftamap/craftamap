@@ -6,11 +6,11 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (today)
-- [craftamap/netzkratzer](https://github.com/craftamap/netzkratzer) -  (today)
-- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (2 days ago)
-- [craftamap/fastmac](https://github.com/craftamap/fastmac) -  (3 days ago)
-- [craftamap/webscraping-generator](https://github.com/craftamap/webscraping-generator) - Various small applications/scripts that can be used for demonstrating various web scraping types (3 days ago)
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 day ago)
+- [craftamap/netzkratzer](https://github.com/craftamap/netzkratzer) -  (1 day ago)
+- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (3 days ago)
+- [craftamap/fastmac](https://github.com/craftamap/fastmac) -  (4 days ago)
+- [craftamap/webscraping-generator](https://github.com/craftamap/webscraping-generator) - Various small applications/scripts that can be used for demonstrating various web scraping types (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.1.1](https://github.com/craftamap/bb/releases/tag/v0.1.1), 4 days ago) - inoffical Bitbucket.org command line tool
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.1.1](https://github.com/craftamap/bb/releases/tag/v0.1.1), 5 days ago) - inoffical Bitbucket.org command line tool
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.6.6](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.6.6), 1 week ago) - Bitbucket API library for Golang.
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.6.0-beta.1](https://github.com/livelyapps/pluploader/releases/tag/v0.6.0-beta.1), 2 weeks ago) - A simple plugin uploader for atlassian server tools written in python
 - [zaquestion/lab](https://github.com/zaquestion/lab) ([v0.17.2](https://github.com/zaquestion/lab/releases/tag/v0.17.2), 10 months ago) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
