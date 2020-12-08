@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (1 week ago)
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (today)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 week ago)
 - [atlassian-labs/connect-security-req-tester](https://github.com/atlassian-labs/connect-security-req-tester) - A tool to check your Atlassian Connect app against Atlassian&#39;s security requirements. (1 week ago)
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (2 weeks ago)
@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.0](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.0), 1 week ago) - Bitbucket API library for Golang.
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.1](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.1), today) - Bitbucket API library for Golang.
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.6.0](https://github.com/livelyapps/pluploader/releases/tag/v0.6.0), 3 weeks ago) - A simple plugin uploader for atlassian server tools written in python
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.1.1](https://github.com/craftamap/bb/releases/tag/v0.1.1), 1 month ago) - inoffical Bitbucket.org command line tool
 - [zaquestion/lab](https://github.com/zaquestion/lab) ([v0.17.2](https://github.com/zaquestion/lab/releases/tag/v0.17.2), 11 months ago) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
