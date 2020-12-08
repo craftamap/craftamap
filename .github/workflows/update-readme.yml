@@ -25,3 +25,4 @@ jobs:
         with:
           commit_message: Update generated README
           branch: master
+          commit_author: GitHub Actions <actions@github.com> # defaults to author of the commit that triggered the run:  :  
