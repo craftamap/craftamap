@@ -6,8 +6,8 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (today)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (today)
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (today)
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (6 days ago)
 - [atlassian-labs/connect-security-req-tester](https://github.com/atlassian-labs/connect-security-req-tester) - A tool to check your Atlassian Connect app against Atlassian&#39;s security requirements. (2 weeks ago)
 - [craftamap/netzkratzer](https://github.com/craftamap/netzkratzer) - Netzkratzer shows some simple examples for webscraping (1 month ago)
