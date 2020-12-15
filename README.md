@@ -22,9 +22,9 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.2.0](https://github.com/craftamap/bb/releases/tag/v0.2.0), today) - inoffical Bitbucket.org command line tool
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.1](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.1), 1 week ago) - Bitbucket API library for Golang.
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.6.0](https://github.com/livelyapps/pluploader/releases/tag/v0.6.0), 1 month ago) - A simple plugin uploader for atlassian server tools written in python
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.1.1](https://github.com/craftamap/bb/releases/tag/v0.1.1), 1 month ago) - inoffical Bitbucket.org command line tool
 - [zaquestion/lab](https://github.com/zaquestion/lab) ([v0.17.2](https://github.com/zaquestion/lab/releases/tag/v0.17.2), 1 year ago) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 
 #### 📜 My recent blog posts
