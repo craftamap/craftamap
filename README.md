@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (3 days ago)
+- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (today)
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (1 week ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) -  (1 week ago)
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 week ago)
