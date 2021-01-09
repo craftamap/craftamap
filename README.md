@@ -7,7 +7,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 👷 Check out what I'm currently working on
 
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (today)
-- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (3 days ago)
+- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (4 days ago)
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (3 weeks ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) -  (3 weeks ago)
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (3 weeks ago)
@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zaquestion/lab](https://github.com/zaquestion/lab) ([v0.18.0](https://github.com/zaquestion/lab/releases/tag/v0.18.0), 3 days ago) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
+- [zaquestion/lab](https://github.com/zaquestion/lab) ([v0.18.0](https://github.com/zaquestion/lab/releases/tag/v0.18.0), 4 days ago) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.5](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.5), 1 week ago) - Bitbucket API library for Golang.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.2.1](https://github.com/craftamap/bb/releases/tag/v0.2.1), 3 weeks ago) - inoffical Bitbucket.org command line tool
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.6.0](https://github.com/livelyapps/pluploader/releases/tag/v0.6.0), 1 month ago) - A simple plugin uploader for atlassian server tools written in python
@@ -36,7 +36,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🦚 And here's a list of projects I'm proud of
 
-- [bb](https://siegelfabian.de/projects/2021/bb/) (5 days ago)
+- [bb](https://siegelfabian.de/projects/2021/bb/) (6 days ago)
 - [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (3 months ago)
 - [Atlas Gonnect](https://siegelfabian.de/projects/2020/atlas-gonnect/) (6 months ago)
 - [LivelyApps pluploader](https://siegelfabian.de/projects/2020/pluploader/) (8 months ago)
