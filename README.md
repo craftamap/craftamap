@@ -6,11 +6,11 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/firefox-owncast-extension](https://github.com/craftamap/firefox-owncast-extension) -  (today)
-- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (2 days ago)
-- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (4 days ago)
+- [craftamap/firefox-owncast-extension](https://github.com/craftamap/firefox-owncast-extension) -  (1 day ago)
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (3 days ago)
+- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (5 days ago)
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (1 week ago)
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (3 weeks ago)
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,9 +22,9 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.6](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.6), 3 days ago) - Bitbucket API library for Golang.
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.6](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.6), 4 days ago) - Bitbucket API library for Golang.
 - [zaquestion/lab](https://github.com/zaquestion/lab) ([v0.18.0](https://github.com/zaquestion/lab/releases/tag/v0.18.0), 1 week ago) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.2.1](https://github.com/craftamap/bb/releases/tag/v0.2.1), 4 weeks ago) - inoffical Bitbucket.org command line tool
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.2.1](https://github.com/craftamap/bb/releases/tag/v0.2.1), 1 month ago) - inoffical Bitbucket.org command line tool
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.6.0](https://github.com/livelyapps/pluploader/releases/tag/v0.6.0), 2 months ago) - A simple plugin uploader for atlassian server tools written in python
 
 #### 📜 My recent blog posts
@@ -39,7 +39,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 - [bb](https://siegelfabian.de/projects/2021/bb/) (1 week ago)
 - [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (3 months ago)
 - [Atlas Gonnect](https://siegelfabian.de/projects/2020/atlas-gonnect/) (7 months ago)
-- [LivelyApps pluploader](https://siegelfabian.de/projects/2020/pluploader/) (8 months ago)
+- [LivelyApps pluploader](https://siegelfabian.de/projects/2020/pluploader/) (9 months ago)
 - [Spotimerge](https://siegelfabian.de/projects/2019/spotimerge/) (2 years ago)
 
 #### 📫 How to reach me
