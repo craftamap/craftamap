@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/firefox-owncast-extension](https://github.com/craftamap/firefox-owncast-extension) -  (today)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) -  (today)
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (4 days ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (6 days ago)
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (1 week ago)
@@ -14,7 +14,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🌱 My latest projects
 
-- [craftamap/firefox-owncast-extension](https://github.com/craftamap/firefox-owncast-extension) - 
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - 
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - 
 - [craftamap/netzkratzer](https://github.com/craftamap/netzkratzer) - Netzkratzer shows some simple examples for webscraping
 - [craftamap/fastmac](https://github.com/craftamap/fastmac) - 
