@@ -7,10 +7,10 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 👷 Check out what I'm currently working on
 
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (today)
+- [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) -  (today)
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (5 days ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 week ago)
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (1 week ago)
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (1 month ago)
 
 #### 🌱 My latest projects
 
