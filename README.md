@@ -24,7 +24,6 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.1.2](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.1.2), 1 day ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.6](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.6), 6 days ago) - Bitbucket API library for Golang.
-- [zaquestion/lab](https://github.com/zaquestion/lab) ([v0.18.0](https://github.com/zaquestion/lab/releases/tag/v0.18.0), 1 week ago) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.2.1](https://github.com/craftamap/bb/releases/tag/v0.2.1), 1 month ago) - inoffical Bitbucket.org command line tool
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.6.0](https://github.com/livelyapps/pluploader/releases/tag/v0.6.0), 2 months ago) - A simple plugin uploader for atlassian server tools written in python
 
