@@ -6,11 +6,11 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (today)
-- [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) -  (2 days ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 day ago)
+- [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) -  (3 days ago)
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 week ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 week ago)
-- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (1 week ago)
+- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.1.2](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.1.2), 3 days ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.1.2](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.1.2), 4 days ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.6](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.6), 1 week ago) - Bitbucket API library for Golang.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.2.1](https://github.com/craftamap/bb/releases/tag/v0.2.1), 1 month ago) - inoffical Bitbucket.org command line tool
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.6.0](https://github.com/livelyapps/pluploader/releases/tag/v0.6.0), 2 months ago) - A simple plugin uploader for atlassian server tools written in python
