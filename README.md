@@ -22,6 +22,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
+- [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.0.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.0.0), today) - Atlassian Data Center App Performance Toolkit
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.1.2](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.1.2), 5 days ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.6](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.6), 1 week ago) - Bitbucket API library for Golang.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.2.1](https://github.com/craftamap/bb/releases/tag/v0.2.1), 1 month ago) - inoffical Bitbucket.org command line tool
