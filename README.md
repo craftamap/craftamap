@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/craftamap/craftamap/master/assets/profile_picture.png" align="right" width="256"/>
 
-I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of the pluploader and atlas-gonnect!
+I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of bb, the pluploader and atlas-gonnect!
 
 #### 👷 Check out what I'm currently working on
 
@@ -15,7 +15,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 🌱 My latest projects
 
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
-- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - 
+- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer!
 - [craftamap/netzkratzer](https://github.com/craftamap/netzkratzer) - Netzkratzer shows some simple examples for webscraping
 - [craftamap/fastmac](https://github.com/craftamap/fastmac) - 
 - [craftamap/webscraping-generator](https://github.com/craftamap/webscraping-generator) - Various small applications/scripts that can be used for demonstrating various web scraping types
@@ -37,6 +37,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🦚 And here's a list of projects I'm proud of
 
+
 - [bb](https://siegelfabian.de/projects/2021/bb/) (3 weeks ago)
 - [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (4 months ago)
 - [Atlas Gonnect](https://siegelfabian.de/projects/2020/atlas-gonnect/) (7 months ago)
@@ -46,3 +47,5 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/craftamap
+- Mastodon: https://chaos.social/@craftamap
+- LinkedIn: https://www.linkedin.com/in/fabian-siegel-6abbb7188/
