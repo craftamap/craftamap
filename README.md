@@ -6,9 +6,9 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 day ago)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 day ago)
-- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (1 day ago)
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (2 days ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (2 days ago)
+- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (2 days ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 week ago)
 - [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) -  (3 weeks ago)
 
@@ -31,7 +31,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 📜 My recent blog posts
 
 
-- [How I built a browser extension in 2021 (using modern tools and libraries)](https://siegelfabian.de/posts/2021/02/how-i-built-a-browser-extension-in-2021/) (today)
+- [How I built a browser extension in 2021 (using modern tools and libraries)](https://siegelfabian.de/posts/2021/02/how-i-built-a-browser-extension-in-2021/) (1 day ago)
 - [Luftdaten selber messen! - Teil 3: Was ist Feinstaub und die Auswertung des Sensors](https://siegelfabian.de/posts/2018/02/luftdaten3/) (3 years ago)
 - [Luftdaten selber messen! - Teil 2: Zusammenbauen](https://siegelfabian.de/posts/2018/02/luftdaten2/) (3 years ago)
 - [Luftdaten selber messen! - Teil 1: About](https://siegelfabian.de/posts/2018/02/luftdaten1/) (3 years ago)
