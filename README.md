@@ -6,10 +6,10 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) -  (today)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (3 days ago)
-- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (3 days ago)
-- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (3 days ago)
+- [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) -  (1 day ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (4 days ago)
+- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (4 days ago)
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (4 days ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 week ago)
 
 #### 🌱 My latest projects
@@ -31,7 +31,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 📜 My recent blog posts
 
 
-- [How I built a browser extension in 2021 (using modern tools and libraries)](https://siegelfabian.de/posts/2021/02/how-i-built-a-browser-extension-in-2021/) (2 days ago)
+- [How I built a browser extension in 2021 (using modern tools and libraries)](https://siegelfabian.de/posts/2021/02/how-i-built-a-browser-extension-in-2021/) (3 days ago)
 - [Luftdaten selber messen! - Teil 3: Was ist Feinstaub und die Auswertung des Sensors](https://siegelfabian.de/posts/2018/02/luftdaten3/) (3 years ago)
 - [Luftdaten selber messen! - Teil 2: Zusammenbauen](https://siegelfabian.de/posts/2018/02/luftdaten2/) (3 years ago)
 - [Luftdaten selber messen! - Teil 1: About](https://siegelfabian.de/posts/2018/02/luftdaten1/) (3 years ago)
@@ -41,7 +41,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 - [bb](https://siegelfabian.de/projects/2021/bb/) (1 month ago)
 - [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (4 months ago)
-- [Atlas Gonnect](https://siegelfabian.de/projects/2020/atlas-gonnect/) (7 months ago)
+- [Atlas Gonnect](https://siegelfabian.de/projects/2020/atlas-gonnect/) (8 months ago)
 - [LivelyApps pluploader](https://siegelfabian.de/projects/2020/pluploader/) (9 months ago)
 - [Spotimerge](https://siegelfabian.de/projects/2019/spotimerge/) (2 years ago)
 
