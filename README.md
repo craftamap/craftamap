@@ -6,9 +6,9 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (today)
-- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (4 days ago)
-- [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) -  (5 days ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 day ago)
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (5 days ago)
+- [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) -  (6 days ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (1 week ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (2 weeks ago)
 
