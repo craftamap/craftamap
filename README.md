@@ -6,10 +6,10 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (today)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 day ago)
-- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (5 days ago)
-- [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) -  (6 days ago)
+- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (1 day ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (2 days ago)
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (6 days ago)
+- [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) -  (1 week ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (1 week ago)
 
 #### 🌱 My latest projects
@@ -23,8 +23,8 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 🔭 Latest releases I've contributed to
 
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.8](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.8), 2 weeks ago) - Bitbucket API library for Golang.
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.2.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.2.0), 3 weeks ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
-- [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.0.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.0.0), 3 weeks ago) - Atlassian Data Center App Performance Toolkit
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.2.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.2.0), 4 weeks ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
+- [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.0.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.0.0), 4 weeks ago) - Atlassian Data Center App Performance Toolkit
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.5](https://github.com/owncast/owncast/releases/tag/v0.0.5), 1 month ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.2.1](https://github.com/craftamap/bb/releases/tag/v0.2.1), 2 months ago) - inoffical Bitbucket.org command line tool
 
