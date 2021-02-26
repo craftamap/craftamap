@@ -6,11 +6,11 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (today)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (3 days ago)
-- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (5 days ago)
-- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (5 days ago)
-- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (5 days ago)
+- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 day ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (4 days ago)
+- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (6 days ago)
+- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (6 days ago)
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.7.0](https://github.com/livelyapps/pluploader/releases/tag/v0.7.0), 5 days ago) - A simple plugin uploader for atlassian server tools written in python
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.7.0](https://github.com/livelyapps/pluploader/releases/tag/v0.7.0), 6 days ago) - A simple plugin uploader for atlassian server tools written in python
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.3.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.3.0), 1 week ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.8](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.8), 3 weeks ago) - Bitbucket API library for Golang.
 - [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.0.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.0.0), 1 month ago) - Atlassian Data Center App Performance Toolkit
