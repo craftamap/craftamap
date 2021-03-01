@@ -6,9 +6,9 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (2 days ago)
-- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (3 days ago)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (6 days ago)
+- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (3 days ago)
+- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (4 days ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 week ago)
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 week ago)
 - [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (1 week ago)
 
@@ -22,16 +22,16 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.0](https://github.com/craftamap/bb/releases/tag/v0.3.0), 2 days ago) - inoffical Bitbucket.org command line tool
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.0](https://github.com/craftamap/bb/releases/tag/v0.3.0), 3 days ago) - inoffical Bitbucket.org command line tool
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.7.0](https://github.com/livelyapps/pluploader/releases/tag/v0.7.0), 1 week ago) - A simple plugin uploader for atlassian server tools written in python
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.3.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.3.0), 1 week ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.8](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.8), 4 weeks ago) - Bitbucket API library for Golang.
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.8](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.8), 1 month ago) - Bitbucket API library for Golang.
 - [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.0.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.0.0), 1 month ago) - Atlassian Data Center App Performance Toolkit
 
 #### 📜 My recent blog posts
 
 
-- [How I built a browser extension in 2021 (using modern tools and libraries)](https://siegelfabian.de/posts/2021/02/how-i-built-a-browser-extension-in-2021/) (2 weeks ago)
+- [How I built a browser extension in 2021 (using modern tools and libraries)](https://siegelfabian.de/posts/2021/02/how-i-built-a-browser-extension-in-2021/) (3 weeks ago)
 - [Luftdaten selber messen! - Teil 3: Was ist Feinstaub und die Auswertung des Sensors](https://siegelfabian.de/posts/2018/02/luftdaten3/) (3 years ago)
 - [Luftdaten selber messen! - Teil 2: Zusammenbauen](https://siegelfabian.de/posts/2018/02/luftdaten2/) (3 years ago)
 - [Luftdaten selber messen! - Teil 1: About](https://siegelfabian.de/posts/2018/02/luftdaten1/) (3 years ago)
