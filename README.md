@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 day ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (2 days ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (1 week ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 week ago)
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (2 weeks ago)
@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), 1 day ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), 2 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.0](https://github.com/craftamap/bb/releases/tag/v0.3.0), 1 week ago) - inoffical Bitbucket.org command line tool
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.7.0](https://github.com/livelyapps/pluploader/releases/tag/v0.7.0), 2 weeks ago) - A simple plugin uploader for atlassian server tools written in python
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.3.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.3.0), 2 weeks ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
@@ -31,7 +31,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 📜 My recent blog posts
 
 
-- [How I built a browser extension in 2021 (using modern tools and libraries)](https://siegelfabian.de/posts/2021/02/how-i-built-a-browser-extension-in-2021/) (4 weeks ago)
+- [How I built a browser extension in 2021 (using modern tools and libraries)](https://siegelfabian.de/posts/2021/02/how-i-built-a-browser-extension-in-2021/) (1 month ago)
 - [Luftdaten selber messen! - Teil 3: Was ist Feinstaub und die Auswertung des Sensors](https://siegelfabian.de/posts/2018/02/luftdaten3/) (3 years ago)
 - [Luftdaten selber messen! - Teil 2: Zusammenbauen](https://siegelfabian.de/posts/2018/02/luftdaten2/) (3 years ago)
 - [Luftdaten selber messen! - Teil 1: About](https://siegelfabian.de/posts/2018/02/luftdaten1/) (3 years ago)
