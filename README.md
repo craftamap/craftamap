@@ -6,11 +6,11 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (6 days ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 week ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (3 weeks ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (3 weeks ago)
-- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (4 weeks ago)
-- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (4 weeks ago)
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 month ago)
+- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.1.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.1.0), 4 days ago) - Atlassian Data Center App Performance Toolkit
+- [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.1.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.1.0), 5 days ago) - Atlassian Data Center App Performance Toolkit
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.9](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.9), 1 week ago) - Bitbucket API library for Golang.
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), 2 weeks ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.0](https://github.com/craftamap/bb/releases/tag/v0.3.0), 3 weeks ago) - inoffical Bitbucket.org command line tool
-- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.7.0](https://github.com/livelyapps/pluploader/releases/tag/v0.7.0), 4 weeks ago) - A simple plugin uploader for atlassian server tools written in python
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.7.0](https://github.com/livelyapps/pluploader/releases/tag/v0.7.0), 1 month ago) - A simple plugin uploader for atlassian server tools written in python
 
 #### 📜 My recent blog posts
 
