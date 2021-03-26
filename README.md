@@ -6,19 +6,19 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habbit tracker written in Golang and Vue.js (today)
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 week ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (4 weeks ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (4 weeks ago)
-- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 month ago)
 - [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (1 month ago)
 
 #### 🌱 My latest projects
 
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habbit tracker written in Golang and Vue.js
 - [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) - 
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer!
 - [craftamap/netzkratzer](https://github.com/craftamap/netzkratzer) - Netzkratzer shows some simple examples for webscraping
-- [craftamap/fastmac](https://github.com/craftamap/fastmac) - 
 
 #### 🔭 Latest releases I've contributed to
 
