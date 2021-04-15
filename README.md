@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.11](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.11), 3 days ago) - Bitbucket API library for Golang.
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.12](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.12), today) - Bitbucket API library for Golang.
 - [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.1.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.1.0), 4 weeks ago) - Atlassian Data Center App Performance Toolkit
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), 1 month ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.0](https://github.com/craftamap/bb/releases/tag/v0.3.0), 1 month ago) - inoffical Bitbucket.org command line tool
