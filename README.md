@@ -10,7 +10,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (3 days ago)
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (6 days ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 week ago)
-- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (1 month ago)
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 month ago)
 
 #### 🌱 My latest projects
 
