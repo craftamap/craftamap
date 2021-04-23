@@ -6,8 +6,8 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (3 days ago)
-- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habbit tracker written in Golang and Vue.js (6 days ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (4 days ago)
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habbit tracker written in Golang and Vue.js (1 week ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (1 week ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (2 weeks ago)
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (2 months ago)
@@ -40,7 +40,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 
 - [bb](https://siegelfabian.de/projects/2021/bb/) (3 months ago)
-- [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (6 months ago)
+- [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (7 months ago)
 - [Atlas Gonnect](https://siegelfabian.de/projects/2020/atlas-gonnect/) (10 months ago)
 - [LivelyApps pluploader](https://siegelfabian.de/projects/2020/pluploader/) (1 year ago)
 - [Spotimerge](https://siegelfabian.de/projects/2019/spotimerge/) (2 years ago)
