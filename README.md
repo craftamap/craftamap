@@ -6,9 +6,9 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habbit tracker written in Golang and Vue.js (today)
-- [craftamap/webbone](https://github.com/craftamap/webbone) -  (2 days ago)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (3 days ago)
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habbit tracker written in Golang and Vue.js (1 day ago)
+- [craftamap/webbone](https://github.com/craftamap/webbone) -  (3 days ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (4 days ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (2 weeks ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (3 weeks ago)
 
@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.2.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.2.0), 6 days ago) - Atlassian Data Center App Performance Toolkit
+- [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.2.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.2.0), 1 week ago) - Atlassian Data Center App Performance Toolkit
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.1](https://github.com/craftamap/bb/releases/tag/v0.3.1), 2 weeks ago) - inoffical Bitbucket.org command line tool
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.12](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.12), 2 weeks ago) - Bitbucket API library for Golang.
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), 1 month ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
@@ -39,7 +39,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 🦚 And here's a list of projects I'm proud of
 
 
-- [bb](https://siegelfabian.de/projects/2021/bb/) (3 months ago)
+- [bb](https://siegelfabian.de/projects/2021/bb/) (4 months ago)
 - [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (7 months ago)
 - [Atlas Gonnect](https://siegelfabian.de/projects/2020/atlas-gonnect/) (10 months ago)
 - [LivelyApps pluploader](https://siegelfabian.de/projects/2020/pluploader/) (1 year ago)
