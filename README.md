@@ -6,8 +6,8 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (2 days ago)
-- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habbit tracker written in Golang and Vue.js (5 days ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (3 days ago)
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habbit tracker written in Golang and Vue.js (6 days ago)
 - [craftamap/webbone](https://github.com/craftamap/webbone) -  (1 week ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (3 weeks ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 month ago)
@@ -31,7 +31,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 📜 My recent blog posts
 
 
-- [How I built a browser extension in 2021 (using modern tools and libraries)](https://siegelfabian.de/posts/2021/02/how-i-built-a-browser-extension-in-2021/) (2 months ago)
+- [How I built a browser extension in 2021 (using modern tools and libraries)](https://siegelfabian.de/posts/2021/02/how-i-built-a-browser-extension-in-2021/) (3 months ago)
 - [Luftdaten selber messen! - Teil 3: Was ist Feinstaub und die Auswertung des Sensors](https://siegelfabian.de/posts/2018/02/luftdaten3/) (3 years ago)
 - [Luftdaten selber messen! - Teil 2: Zusammenbauen](https://siegelfabian.de/posts/2018/02/luftdaten2/) (3 years ago)
 - [Luftdaten selber messen! - Teil 1: About](https://siegelfabian.de/posts/2018/02/luftdaten1/) (3 years ago)
