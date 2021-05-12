@@ -6,10 +6,10 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
+- [craftamap/webbone](https://github.com/craftamap/webbone) -  (today)
 - [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) -  (1 day ago)
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 day ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habbit tracker written in Golang and Vue.js (1 week ago)
-- [craftamap/webbone](https://github.com/craftamap/webbone) -  (1 week ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (3 weeks ago)
 
 #### 🌱 My latest projects
