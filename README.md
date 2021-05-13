@@ -6,11 +6,11 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habbit tracker written in Golang and Vue.js (today)
-- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (today)
-- [craftamap/webbone](https://github.com/craftamap/webbone) -  (today)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 day ago)
-- [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) -  (1 day ago)
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habbit tracker written in Golang and Vue.js (1 day ago)
+- [livelyapps/pluploader](https://github.com/livelyapps/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 day ago)
+- [craftamap/webbone](https://github.com/craftamap/webbone) -  (1 day ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (2 days ago)
+- [craftamap/jdbc-builder](https://github.com/craftamap/jdbc-builder) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -23,8 +23,8 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 🔭 Latest releases I've contributed to
 
 - [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.2.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.2.0), 2 weeks ago) - Atlassian Data Center App Performance Toolkit
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.1](https://github.com/craftamap/bb/releases/tag/v0.3.1), 3 weeks ago) - inoffical Bitbucket.org command line tool
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.12](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.12), 3 weeks ago) - Bitbucket API library for Golang.
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.1](https://github.com/craftamap/bb/releases/tag/v0.3.1), 4 weeks ago) - inoffical Bitbucket.org command line tool
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.12](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.12), 4 weeks ago) - Bitbucket API library for Golang.
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), 2 months ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.7.0](https://github.com/livelyapps/pluploader/releases/tag/v0.7.0), 2 months ago) - A simple plugin uploader for atlassian server tools written in python
 
