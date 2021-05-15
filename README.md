@@ -22,10 +22,10 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.7](https://github.com/owncast/owncast/releases/tag/v0.0.7), today) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.2.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.2.0), 2 weeks ago) - Atlassian Data Center App Performance Toolkit
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.1](https://github.com/craftamap/bb/releases/tag/v0.3.1), 1 month ago) - inoffical Bitbucket.org command line tool
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.12](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.12), 1 month ago) - Bitbucket API library for Golang.
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), 2 months ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.7.0](https://github.com/livelyapps/pluploader/releases/tag/v0.7.0), 2 months ago) - A simple plugin uploader for atlassian server tools written in python
 
 #### 📜 My recent blog posts
