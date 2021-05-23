@@ -6,8 +6,8 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/DeskInk](https://github.com/craftamap/DeskInk) - DeskInk is a simple script for a raspberry pi for usage with the WaveShare 4.2 Inch E-Ink/Paper Display (3 days ago)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (5 days ago)
+- [craftamap/DeskInk](https://github.com/craftamap/DeskInk) - DeskInk is a simple script for a raspberry pi for usage with the WaveShare 4.2 Inch E-Ink/Paper Display (4 days ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (6 days ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (1 week ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 week ago)
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (1 week ago)
@@ -40,7 +40,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 
 - [bb](https://siegelfabian.de/projects/2021/bb/) (4 months ago)
-- [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (7 months ago)
+- [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (8 months ago)
 - [Atlas Gonnect](https://siegelfabian.de/projects/2020/atlas-gonnect/) (11 months ago)
 - [LivelyApps pluploader](https://siegelfabian.de/projects/2020/pluploader/) (1 year ago)
 - [Spotimerge](https://siegelfabian.de/projects/2019/spotimerge/) (2 years ago)
