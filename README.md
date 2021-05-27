@@ -10,7 +10,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (2 days ago)
 - [craftamap/DeskInk](https://github.com/craftamap/DeskInk) - DeskInk is a simple script for a raspberry pi for usage with the WaveShare 4.2 Inch E-Ink/Paper Display (1 week ago)
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 week ago)
-- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (2 weeks ago)
+- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (2 weeks ago)
 
 #### 🌱 My latest projects
 
