@@ -7,9 +7,9 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 👷 Check out what I'm currently working on
 
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (2 days ago)
-- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (6 days ago)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (6 days ago)
 - [craftamap/webbone](https://github.com/craftamap/webbone) -  (6 days ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (6 days ago)
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (6 days ago)
 - [craftamap/DeskInk](https://github.com/craftamap/DeskInk) - DeskInk is a simple script for a raspberry pi for usage with the WaveShare 4.2 Inch E-Ink/Paper Display (3 weeks ago)
 
 #### 🌱 My latest projects
