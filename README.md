@@ -6,11 +6,11 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
+- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (today)
+- [craftamap/atlas-gonnect-confluence-example](https://github.com/craftamap/atlas-gonnect-confluence-example) - An example showing on howto work with github.com/craftamap/altas-gonnect (today)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (1 day ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 day ago)
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (1 day ago)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 week ago)
-- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (1 week ago)
 
 #### 🌱 My latest projects
 
