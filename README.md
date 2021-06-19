@@ -6,11 +6,11 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (today)
-- [craftamap/atlas-gonnect-confluence-example](https://github.com/craftamap/atlas-gonnect-confluence-example) - An example showing on howto work with github.com/craftamap/altas-gonnect (today)
-- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (1 day ago)
-- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 day ago)
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (1 day ago)
+- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (1 day ago)
+- [craftamap/atlas-gonnect-confluence-example](https://github.com/craftamap/atlas-gonnect-confluence-example) - An example showing on howto work with github.com/craftamap/altas-gonnect (1 day ago)
+- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (2 days ago)
+- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (2 days ago)
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,8 +22,8 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.0](https://github.com/craftamap/bb/releases/tag/v0.4.0), 1 day ago) - inoffical Bitbucket.org command line tool
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.16](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.16), 1 day ago) - Bitbucket API library for Golang.
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.0](https://github.com/craftamap/bb/releases/tag/v0.4.0), 2 days ago) - inoffical Bitbucket.org command line tool
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.16](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.16), 2 days ago) - Bitbucket API library for Golang.
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.7](https://github.com/owncast/owncast/releases/tag/v0.0.7), 1 month ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.2.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.2.0), 1 month ago) - Atlassian Data Center App Performance Toolkit
 - [livelyapps/pluploader](https://github.com/livelyapps/pluploader) ([v0.7.0](https://github.com/livelyapps/pluploader/releases/tag/v0.7.0), 3 months ago) - A simple plugin uploader for atlassian server tools written in python
