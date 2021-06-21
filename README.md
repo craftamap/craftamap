@@ -22,9 +22,9 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.17](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.17), today) - Bitbucket API library for Golang.
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) ([v0.2.0](https://github.com/craftamap/atlas-gonnect/releases/tag/v0.2.0), 2 days ago) - An Atlassian Connect Framework written in Golang
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.0](https://github.com/craftamap/bb/releases/tag/v0.4.0), 4 days ago) - inoffical Bitbucket.org command line tool
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.16](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.16), 4 days ago) - Bitbucket API library for Golang.
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.7](https://github.com/owncast/owncast/releases/tag/v0.0.7), 1 month ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-4.2.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-4.2.0), 1 month ago) - Atlassian Data Center App Performance Toolkit
 
