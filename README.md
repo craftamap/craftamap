@@ -6,10 +6,10 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (today)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 day ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (1 week ago)
-- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (1 week ago)
-- [craftamap/atlas-gonnect-confluence-example](https://github.com/craftamap/atlas-gonnect-confluence-example) - An example showing on howto work with github.com/craftamap/altas-gonnect (1 week ago)
+- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (2 weeks ago)
+- [craftamap/atlas-gonnect-confluence-example](https://github.com/craftamap/atlas-gonnect-confluence-example) - An example showing on howto work with github.com/craftamap/altas-gonnect (2 weeks ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.20](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.20), 1 day ago) - Bitbucket API library for Golang.
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.20](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.20), 2 days ago) - Bitbucket API library for Golang.
 - [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-5.0.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-5.0.0), 1 week ago) - Atlassian Data Center App Performance Toolkit
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) ([v0.2.0](https://github.com/craftamap/atlas-gonnect/releases/tag/v0.2.0), 1 week ago) - An Atlassian Connect Framework written in Golang
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.0](https://github.com/craftamap/bb/releases/tag/v0.4.0), 2 weeks ago) - inoffical Bitbucket.org command line tool
@@ -39,7 +39,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 🦚 And here's a list of projects I'm proud of
 
 
-- [bb](https://siegelfabian.de/projects/2021/bb/) (5 months ago)
+- [bb](https://siegelfabian.de/projects/2021/bb/) (6 months ago)
 - [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (9 months ago)
 - [Atlas Gonnect](https://siegelfabian.de/projects/2020/atlas-gonnect/) (1 year ago)
 - [LivelyApps pluploader](https://siegelfabian.de/projects/2020/pluploader/) (1 year ago)
