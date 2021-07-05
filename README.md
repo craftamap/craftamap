@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 
 #### 🔭 Latest releases I've contributed to
 
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.20](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.20), 5 days ago) - Bitbucket API library for Golang.
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.21](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.21), today) - Bitbucket API library for Golang.
 - [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-5.0.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-5.0.0), 1 week ago) - Atlassian Data Center App Performance Toolkit
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) ([v0.2.0](https://github.com/craftamap/atlas-gonnect/releases/tag/v0.2.0), 2 weeks ago) - An Atlassian Connect Framework written in Golang
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.0](https://github.com/craftamap/bb/releases/tag/v0.4.0), 2 weeks ago) - inoffical Bitbucket.org command line tool
