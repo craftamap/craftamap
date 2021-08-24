@@ -10,7 +10,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (2 weeks ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (2 weeks ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (2 weeks ago)
-- [craftamap/atlas-gonnect-confluence-example](https://github.com/craftamap/atlas-gonnect-confluence-example) - An example showing on howto work with github.com/craftamap/altas-gonnect (3 weeks ago)
+- [craftamap/atlas-gonnect-confluence-example](https://github.com/craftamap/atlas-gonnect-confluence-example) - An example showing on howto work with github.com/craftamap/altas-gonnect (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -26,7 +26,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.8](https://github.com/owncast/owncast/releases/tag/v0.0.8), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.1](https://github.com/craftamap/bb/releases/tag/v0.4.1), 2 weeks ago) - inoffical Bitbucket.org command line tool
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.24](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.24), 3 weeks ago) - Bitbucket API library for Golang.
-- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) ([v0.2.1](https://github.com/craftamap/atlas-gonnect/releases/tag/v0.2.1), 3 weeks ago) - An Atlassian Connect Framework written in Golang
+- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) ([v0.2.1](https://github.com/craftamap/atlas-gonnect/releases/tag/v0.2.1), 4 weeks ago) - An Atlassian Connect Framework written in Golang
 
 #### 📜 My recent blog posts
 
