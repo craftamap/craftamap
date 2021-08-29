@@ -25,7 +25,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.4.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.4.0), 2 weeks ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.8](https://github.com/owncast/owncast/releases/tag/v0.0.8), 2 weeks ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.1](https://github.com/craftamap/bb/releases/tag/v0.4.1), 3 weeks ago) - inoffical Bitbucket.org command line tool
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.24](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.24), 4 weeks ago) - Bitbucket API library for Golang.
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.24](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.24), 1 month ago) - Bitbucket API library for Golang.
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) ([v0.2.1](https://github.com/craftamap/atlas-gonnect/releases/tag/v0.2.1), 1 month ago) - An Atlassian Connect Framework written in Golang
 
 #### 📜 My recent blog posts
