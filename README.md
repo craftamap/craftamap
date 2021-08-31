@@ -39,7 +39,7 @@ I'm Fabian, an open-source enthusiast working at Lively Apps. I'm the author of 
 #### 🦚 And here's a list of projects I'm proud of
 
 
-- [bb](https://siegelfabian.de/projects/2021/bb/) (7 months ago)
+- [bb](https://siegelfabian.de/projects/2021/bb/) (8 months ago)
 - [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (11 months ago)
 - [Atlas Gonnect](https://siegelfabian.de/projects/2020/atlas-gonnect/) (1 year ago)
 - [LivelyApps pluploader](https://siegelfabian.de/projects/2020/pluploader/) (1 year ago)
