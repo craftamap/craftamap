@@ -6,10 +6,10 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (3 days ago)
-- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (3 days ago)
+- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (4 days ago)
+- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (4 days ago)
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (3 weeks ago)
-- [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (4 weeks ago)
+- [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 month ago)
 - [craftamap/atlas-gonnect-confluence-example](https://github.com/craftamap/atlas-gonnect-confluence-example) - An example showing on howto work with github.com/craftamap/altas-gonnect (1 month ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 🔭 Latest releases I've contributed to
 
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 3 days ago) - inoffical Bitbucket.org command line tool
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 4 days ago) - inoffical Bitbucket.org command line tool
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.4.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.4.0), 3 weeks ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.8](https://github.com/owncast/owncast/releases/tag/v0.0.8), 3 weeks ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.24](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.24), 1 month ago) - Bitbucket API library for Golang.
