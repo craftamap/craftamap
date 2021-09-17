@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 🔭 Latest releases I've contributed to
 
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.26](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.26), 2 days ago) - Bitbucket API library for Golang.
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.26](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.26), 3 days ago) - Bitbucket API library for Golang.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 2 weeks ago) - inoffical Bitbucket.org command line tool
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.4.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.4.0), 1 month ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.8](https://github.com/owncast/owncast/releases/tag/v0.0.8), 1 month ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
