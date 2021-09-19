@@ -6,19 +6,19 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
+- [craftamap/esbuild-html-plugin](https://github.com/craftamap/esbuild-html-plugin) - esbuild plugin to generate HTML files (today)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 day ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (1 day ago)
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (2 days ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (2 weeks ago)
-- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (1 month ago)
 
 #### 🌱 My latest projects
 
+- [craftamap/esbuild-html-plugin](https://github.com/craftamap/esbuild-html-plugin) - esbuild plugin to generate HTML files
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js
 - [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) - 
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer!
-- [craftamap/netzkratzer](https://github.com/craftamap/netzkratzer) - Netzkratzer shows some simple examples for webscraping
 
 #### 🔭 Latest releases I've contributed to
 
