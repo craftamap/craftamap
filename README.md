@@ -6,11 +6,11 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (1 day ago)
-- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (2 days ago)
-- [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (2 days ago)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (3 days ago)
-- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (2 weeks ago)
+- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (2 days ago)
+- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (3 days ago)
+- [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (3 days ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (4 days ago)
+- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,10 +22,10 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 🔭 Latest releases I've contributed to
 
-- [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-5.1.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-5.1.0), today) - Atlassian Data Center App Performance Toolkit
-- [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.0](https://github.com/craftamap/pluploader/releases/tag/v0.8.0), 2 days ago) - A simple plugin uploader for atlassian server tools written in python
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.26](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.26), 6 days ago) - Bitbucket API library for Golang.
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 2 weeks ago) - inoffical Bitbucket.org command line tool
+- [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-5.1.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-5.1.0), 1 day ago) - Atlassian Data Center App Performance Toolkit
+- [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.0](https://github.com/craftamap/pluploader/releases/tag/v0.8.0), 3 days ago) - A simple plugin uploader for atlassian server tools written in python
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.26](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.26), 1 week ago) - Bitbucket API library for Golang.
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 3 weeks ago) - inoffical Bitbucket.org command line tool
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.4.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.4.0), 1 month ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 
 #### 📜 My recent blog posts
