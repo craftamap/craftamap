@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/spotimerge-react](https://github.com/craftamap/spotimerge-react) -  (today)
+- [craftamap/spotimerge-react](https://github.com/craftamap/spotimerge-react) -  (1 day ago)
 - [esbuild/community-plugins](https://github.com/esbuild/community-plugins) - Community plugins for esbuild (1 week ago)
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (2 weeks ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (2 weeks ago)
@@ -22,9 +22,9 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 🔭 Latest releases I've contributed to
 
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.27](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.27), 1 day ago) - Bitbucket API library for Golang.
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.27](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.27), 2 days ago) - Bitbucket API library for Golang.
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.9](https://github.com/owncast/owncast/releases/tag/v0.0.9), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-5.1.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-5.1.0), 1 week ago) - Atlassian Data Center App Performance Toolkit
+- [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-5.1.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-5.1.0), 2 weeks ago) - Atlassian Data Center App Performance Toolkit
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.0](https://github.com/craftamap/pluploader/releases/tag/v0.8.0), 2 weeks ago) - A simple plugin uploader for atlassian server tools written in python
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 1 month ago) - inoffical Bitbucket.org command line tool
 
