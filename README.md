@@ -6,10 +6,10 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (2 days ago)
-- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (2 days ago)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (2 days ago)
-- [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (2 days ago)
+- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (3 days ago)
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (3 days ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (3 days ago)
+- [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (3 days ago)
 - [craftamap/iceportal-api](https://github.com/craftamap/iceportal-api) - iceportal-api is a Golang client implementation to interact with the REST API of iceportal.de when connected to the WiFi-Network offered in German ICE Trains. (1 week ago)
 
 #### 🌱 My latest projects
@@ -22,10 +22,10 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 🔭 Latest releases I've contributed to
 
-- [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.1](https://github.com/craftamap/pluploader/releases/tag/v0.8.1), 2 days ago) - A simple plugin uploader for atlassian server tools written in python
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.28](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.28), 2 days ago) - Bitbucket API library for Golang.
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.10](https://github.com/owncast/owncast/releases/tag/v0.0.10), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-5.1.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-5.1.0), 4 weeks ago) - Atlassian Data Center App Performance Toolkit
+- [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.1](https://github.com/craftamap/pluploader/releases/tag/v0.8.1), 3 days ago) - A simple plugin uploader for atlassian server tools written in python
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.28](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.28), 3 days ago) - Bitbucket API library for Golang.
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.10](https://github.com/owncast/owncast/releases/tag/v0.0.10), 2 weeks ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [atlassian/dc-app-performance-toolkit](https://github.com/atlassian/dc-app-performance-toolkit) ([release-5.1.0](https://github.com/atlassian/dc-app-performance-toolkit/releases/tag/release-5.1.0), 1 month ago) - Atlassian Data Center App Performance Toolkit
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 1 month ago) - inoffical Bitbucket.org command line tool
 
 #### 📜 My recent blog posts
