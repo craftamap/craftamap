@@ -6,10 +6,10 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (today)
 - [craftamap/wishbone](https://github.com/craftamap/wishbone) - Go Implementation of the ola sphincter-rfid (today)
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (1 day ago)
-- [craftamap/iceportal-api](https://github.com/craftamap/iceportal-api) - iceportal-api is a Golang client implementation to interact with the REST API of iceportal.de when connected to the WiFi-Network offered in German ICE Trains. (4 days ago)
+- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (1 day ago)
+- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (2 days ago)
+- [craftamap/iceportal-api](https://github.com/craftamap/iceportal-api) - iceportal-api is a Golang client implementation to interact with the REST API of iceportal.de when connected to the WiFi-Network offered in German ICE Trains. (5 days ago)
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (2 weeks ago)
 
 #### 🌱 My latest projects
