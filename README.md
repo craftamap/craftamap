@@ -10,7 +10,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 - [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (2 days ago)
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (3 days ago)
 - [craftamap/iceportal-api](https://github.com/craftamap/iceportal-api) - iceportal-api is a Golang client implementation to interact with the REST API of iceportal.de when connected to the WiFi-Network offered in German ICE Trains. (6 days ago)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (3 weeks ago)
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (3 weeks ago)
 
 #### 🌱 My latest projects
 
