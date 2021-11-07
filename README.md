@@ -6,11 +6,11 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/wishbone](https://github.com/craftamap/wishbone) - Go Implementation of the ola sphincter-rfid (today)
-- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (1 day ago)
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (2 days ago)
-- [craftamap/iceportal-api](https://github.com/craftamap/iceportal-api) - iceportal-api is a Golang client implementation to interact with the REST API of iceportal.de when connected to the WiFi-Network offered in German ICE Trains. (5 days ago)
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (2 weeks ago)
+- [craftamap/wishbone](https://github.com/craftamap/wishbone) - Go Implementation of the ola sphincter-rfid (1 day ago)
+- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (2 days ago)
+- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (3 days ago)
+- [craftamap/iceportal-api](https://github.com/craftamap/iceportal-api) - iceportal-api is a Golang client implementation to interact with the REST API of iceportal.de when connected to the WiFi-Network offered in German ICE Trains. (6 days ago)
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,8 +22,8 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 🔭 Latest releases I've contributed to
 
-- [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.1](https://github.com/craftamap/pluploader/releases/tag/v0.8.1), 2 weeks ago) - A simple plugin uploader for atlassian server tools written in python
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.28](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.28), 2 weeks ago) - Bitbucket API library for Golang.
+- [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.1](https://github.com/craftamap/pluploader/releases/tag/v0.8.1), 3 weeks ago) - A simple plugin uploader for atlassian server tools written in python
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.28](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.28), 3 weeks ago) - Bitbucket API library for Golang.
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.10](https://github.com/owncast/owncast/releases/tag/v0.0.10), 1 month ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 2 months ago) - inoffical Bitbucket.org command line tool
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.4.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.4.0), 2 months ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
