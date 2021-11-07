@@ -21,13 +21,13 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 📜 My recent blog posts
 
-{{range rss "https://siegelfabian.de/posts/index.xml" 5}}
+{{range rss "https://thingproxy.freeboard.io/fetch/https://siegelfabian.de/posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 🦚 And here's a list of projects I'm proud of
 
-{{range rss "https://siegelfabian.de/projects/index.xml" 5}}
+{{range rss "https://thingproxy.freeboard.io/fetch/https://siegelfabian.de/projects/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
