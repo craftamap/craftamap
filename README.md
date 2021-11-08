@@ -6,10 +6,10 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/wishbone](https://github.com/craftamap/wishbone) - Go Implementation of the ola sphincter-rfid (1 day ago)
-- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (2 days ago)
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (3 days ago)
-- [craftamap/iceportal-api](https://github.com/craftamap/iceportal-api) - iceportal-api is a Golang client implementation to interact with the REST API of iceportal.de when connected to the WiFi-Network offered in German ICE Trains. (6 days ago)
+- [craftamap/wishbone](https://github.com/craftamap/wishbone) - Go Implementation of the ola sphincter-rfid (2 days ago)
+- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (3 days ago)
+- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (4 days ago)
+- [craftamap/iceportal-api](https://github.com/craftamap/iceportal-api) - iceportal-api is a Golang client implementation to interact with the REST API of iceportal.de when connected to the WiFi-Network offered in German ICE Trains. (1 week ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (3 weeks ago)
 
 #### 🌱 My latest projects
