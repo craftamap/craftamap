@@ -6,9 +6,9 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/wishbone](https://github.com/craftamap/wishbone) - Go Implementation of the ola sphincter-rfid (2 days ago)
-- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (3 days ago)
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (4 days ago)
+- [craftamap/wishbone](https://github.com/craftamap/wishbone) - Go Implementation of the ola sphincter-rfid (3 days ago)
+- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) -  (4 days ago)
+- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (5 days ago)
 - [craftamap/iceportal-api](https://github.com/craftamap/iceportal-api) - iceportal-api is a Golang client implementation to interact with the REST API of iceportal.de when connected to the WiFi-Network offered in German ICE Trains. (1 week ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (3 weeks ago)
 
@@ -26,7 +26,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.28](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.28), 3 weeks ago) - Bitbucket API library for Golang.
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.10](https://github.com/owncast/owncast/releases/tag/v0.0.10), 1 month ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 2 months ago) - inoffical Bitbucket.org command line tool
-- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.4.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.4.0), 2 months ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
+- [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.4.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.4.0), 3 months ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 
 #### 📜 My recent blog posts
 
