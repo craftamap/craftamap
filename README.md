@@ -22,8 +22,8 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 🔭 Latest releases I've contributed to
 
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.29](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.29), today) - Bitbucket API library for Golang.
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.1](https://github.com/craftamap/pluploader/releases/tag/v0.8.1), 4 weeks ago) - A simple plugin uploader for atlassian server tools written in python
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.28](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.28), 4 weeks ago) - Bitbucket API library for Golang.
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.10](https://github.com/owncast/owncast/releases/tag/v0.0.10), 1 month ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 2 months ago) - inoffical Bitbucket.org command line tool
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.4.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.4.0), 3 months ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
