@@ -6,19 +6,19 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
+- [craftamap/shog](https://github.com/craftamap/shog) - this is just me testing out wish, a library to build SSH apps (today)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (3 days ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (4 days ago)
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (1 week ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (2 weeks ago)
-- [knoxite/website](https://github.com/knoxite/website) - knoxite.com (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [craftamap/shog](https://github.com/craftamap/shog) - this is just me testing out wish, a library to build SSH apps
 - [craftamap/iceportal-api](https://github.com/craftamap/iceportal-api) - iceportal-api is a Golang client implementation to interact with the REST API of iceportal.de when connected to the WiFi-Network offered in German ICE Trains.
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files
 - [craftamap/spotimerge-react](https://github.com/craftamap/spotimerge-react) - spotimerge-react is a &#34;spotimerge&#34; implementation built in react, using zustand as state management.
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js
-- [craftamap/docker-forge-cli](https://github.com/craftamap/docker-forge-cli) - 
 
 #### 🔭 Latest releases I've contributed to
 
