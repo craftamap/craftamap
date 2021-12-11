@@ -6,9 +6,9 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/shog](https://github.com/craftamap/shog) - this is just me testing out wish, a library to build SSH apps (today)
-- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (3 days ago)
-- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (4 days ago)
+- [craftamap/shog](https://github.com/craftamap/shog) - this is just me testing out wish, a library to build SSH apps (1 day ago)
+- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (4 days ago)
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (5 days ago)
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (1 week ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (2 weeks ago)
 
