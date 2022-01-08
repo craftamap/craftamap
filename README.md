@@ -42,7 +42,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 - [bb](https://siegelfabian.de/projects/2021/bb/) (1 year ago)
 - [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (1 year ago)
 - [Atlas Gonnect](https://siegelfabian.de/projects/2020/atlas-gonnect/) (2 years ago)
-- [LivelyApps pluploader](https://siegelfabian.de/projects/2020/pluploader/) (2 years ago)
+- [pluploader](https://siegelfabian.de/projects/2020/pluploader/) (2 years ago)
 - [Spotimerge](https://siegelfabian.de/projects/2019/spotimerge/) (3 years ago)
 
 #### 📫 How to reach me
