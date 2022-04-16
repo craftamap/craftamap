@@ -6,8 +6,8 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (3 days ago)
-- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (6 days ago)
+- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (4 days ago)
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (1 week ago)
 - [craftamap/spotimerge-react](https://github.com/craftamap/spotimerge-react) - spotimerge-react is a &#34;spotimerge&#34; implementation built in react, using zustand as state management. (1 week ago)
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (3 weeks ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (4 months ago)
@@ -22,8 +22,8 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 🔭 Latest releases I've contributed to
 
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) ([v0.3.3](https://github.com/craftamap/esbuild-plugin-html/releases/tag/v0.3.3), 3 days ago) - esbuild plugin to generate HTML files
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.41](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.41), 4 days ago) - Bitbucket API library for Golang.
+- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) ([v0.3.3](https://github.com/craftamap/esbuild-plugin-html/releases/tag/v0.3.3), 4 days ago) - esbuild plugin to generate HTML files
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.41](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.41), 5 days ago) - Bitbucket API library for Golang.
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.5.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.5.0), 3 months ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.1](https://github.com/craftamap/pluploader/releases/tag/v0.8.1), 6 months ago) - A simple plugin uploader for atlassian server tools written in python
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 7 months ago) - inoffical Bitbucket.org command line tool
