@@ -7,7 +7,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 #### 👷 Check out what I'm currently working on
 
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 week ago)
-- [openlab-aux/airlock](https://github.com/openlab-aux/airlock) -  (2 weeks ago)
+- [openlab-aux/airlock](https://github.com/openlab-aux/airlock) -  (3 weeks ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (1 month ago)
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (1 month ago)
 - [craftamap/spotimerge-react](https://github.com/craftamap/spotimerge-react) - spotimerge-react is a &#34;spotimerge&#34; implementation built in react, using zustand as state management. (1 month ago)
