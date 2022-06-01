@@ -32,9 +32,6 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 
 - [How I built a browser extension in 2021 (using modern tools and libraries)](https://siegelfabian.de/posts/2021/02/how-i-built-a-browser-extension-in-2021/) (1 year ago)
-- [Luftdaten selber messen! - Teil 3: Was ist Feinstaub und die Auswertung des Sensors](https://siegelfabian.de/posts/2018/02/luftdaten3/) (4 years ago)
-- [Luftdaten selber messen! - Teil 2: Zusammenbauen](https://siegelfabian.de/posts/2018/02/luftdaten2/) (4 years ago)
-- [Luftdaten selber messen! - Teil 1: About](https://siegelfabian.de/posts/2018/02/luftdaten1/) (4 years ago)
 
 #### 🦚 And here's a list of projects I'm proud of
 
