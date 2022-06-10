@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 🔭 Latest releases I've contributed to
 
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.47](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.47), 2 days ago) - Bitbucket API library for Golang.
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.47](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.47), 3 days ago) - Bitbucket API library for Golang.
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) ([v0.3.3](https://github.com/craftamap/esbuild-plugin-html/releases/tag/v0.3.3), 1 month ago) - esbuild plugin to generate HTML files
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.5.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.5.0), 5 months ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.1](https://github.com/craftamap/pluploader/releases/tag/v0.8.1), 7 months ago) - A simple plugin uploader for atlassian server tools written in python
