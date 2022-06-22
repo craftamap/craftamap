@@ -26,7 +26,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.5.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.5.0), 5 months ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.1](https://github.com/craftamap/pluploader/releases/tag/v0.8.1), 8 months ago) - A simple plugin uploader for atlassian server tools written in python
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 9 months ago) - inoffical Bitbucket.org command line tool
-- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) ([v0.2.1](https://github.com/craftamap/atlas-gonnect/releases/tag/v0.2.1), 10 months ago) - An Atlassian Connect Framework written in Golang
+- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) ([v0.2.1](https://github.com/craftamap/atlas-gonnect/releases/tag/v0.2.1), 11 months ago) - An Atlassian Connect Framework written in Golang
 
 #### 📜 My recent blog posts
 
