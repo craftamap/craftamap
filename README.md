@@ -6,10 +6,10 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [openlab-aux/airlock](https://github.com/openlab-aux/airlock) -  (today)
+- [openlab-aux/airlock](https://github.com/openlab-aux/airlock) -  (1 day ago)
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (1 month ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (2 months ago)
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (2 months ago)
+- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (3 months ago)
 - [craftamap/spotimerge-react](https://github.com/craftamap/spotimerge-react) - spotimerge-react is a &#34;spotimerge&#34; implementation built in react, using zustand as state management. (3 months ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 🔭 Latest releases I've contributed to
 
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) ([v0.3.3](https://github.com/craftamap/esbuild-plugin-html/releases/tag/v0.3.3), 2 months ago) - esbuild plugin to generate HTML files
+- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) ([v0.3.3](https://github.com/craftamap/esbuild-plugin-html/releases/tag/v0.3.3), 3 months ago) - esbuild plugin to generate HTML files
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.5.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.5.0), 6 months ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.1](https://github.com/craftamap/pluploader/releases/tag/v0.8.1), 8 months ago) - A simple plugin uploader for atlassian server tools written in python
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 10 months ago) - inoffical Bitbucket.org command line tool
