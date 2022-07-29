@@ -6,19 +6,19 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
+- [craftamap/shopping-list](https://github.com/craftamap/shopping-list) -  (today)
 - [craftamap/telegram-export-parser](https://github.com/craftamap/telegram-export-parser) - Python script to parse telegram html chat logs exported by the telegram desktop client. (1 week ago)
 - [openlab-aux/airlock](https://github.com/openlab-aux/airlock) -  (2 weeks ago)
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (2 months ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (3 months ago)
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (3 months ago)
 
 #### 🌱 My latest projects
 
+- [craftamap/shopping-list](https://github.com/craftamap/shopping-list) - 
 - [craftamap/shog](https://github.com/craftamap/shog) - this is just me testing out wish, a library to build SSH apps
 - [craftamap/iceportal-api](https://github.com/craftamap/iceportal-api) - iceportal-api is a Golang client implementation to interact with the REST API of iceportal.de when connected to the WiFi-Network offered in German ICE Trains.
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files
 - [craftamap/spotimerge-react](https://github.com/craftamap/spotimerge-react) - spotimerge-react is a &#34;spotimerge&#34; implementation built in react, using zustand as state management.
-- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js
 
 #### 🔭 Latest releases I've contributed to
 
