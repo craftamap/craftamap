@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/shopping-list](https://github.com/craftamap/shopping-list) -  (today)
+- [craftamap/shopping-list](https://github.com/craftamap/shopping-list) -  (1 day ago)
 - [craftamap/telegram-export-parser](https://github.com/craftamap/telegram-export-parser) - Python script to parse telegram html chat logs exported by the telegram desktop client. (1 week ago)
 - [openlab-aux/airlock](https://github.com/openlab-aux/airlock) -  (2 weeks ago)
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances (2 months ago)
