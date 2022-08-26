@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (today)
+- [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 day ago)
 - [craftamap/shopping-list](https://github.com/craftamap/shopping-list) -  (2 weeks ago)
 - [craftamap/telegram-export-parser](https://github.com/craftamap/telegram-export-parser) - Python script to parse telegram html chat logs exported by the telegram desktop client. (1 month ago)
 - [openlab-aux/airlock](https://github.com/openlab-aux/airlock) -  (1 month ago)
@@ -25,7 +25,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) ([v0.3.3](https://github.com/craftamap/esbuild-plugin-html/releases/tag/v0.3.3), 4 months ago) - esbuild plugin to generate HTML files
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.5.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.5.0), 7 months ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.1](https://github.com/craftamap/pluploader/releases/tag/v0.8.1), 10 months ago) - A simple plugin uploader for atlassian server tools written in python
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 11 months ago) - inoffical Bitbucket.org command line tool
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 1 year ago) - inoffical Bitbucket.org command line tool
 
 #### 📜 My recent blog posts
 
