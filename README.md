@@ -6,9 +6,9 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (2 days ago)
+- [craftamap/shopping-list](https://github.com/craftamap/shopping-list) -  (today)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (2 days ago)
-- [craftamap/shopping-list](https://github.com/craftamap/shopping-list) -  (3 weeks ago)
+- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (2 days ago)
 - [craftamap/telegram-export-parser](https://github.com/craftamap/telegram-export-parser) - Python script to parse telegram html chat logs exported by the telegram desktop client. (1 month ago)
 - [openlab-aux/airlock](https://github.com/openlab-aux/airlock) -  (1 month ago)
 
