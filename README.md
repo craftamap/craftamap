@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (2 days ago)
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (3 days ago)
 - [craftamap/shopping-list](https://github.com/craftamap/shopping-list) -  (1 week ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (1 week ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 week ago)
@@ -23,7 +23,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 #### 🔭 Latest releases I've contributed to
 
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.2](https://github.com/craftamap/pluploader/releases/tag/v0.8.2), 1 week ago) - A simple plugin uploader for atlassian server tools written in python
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) ([v0.3.3](https://github.com/craftamap/esbuild-plugin-html/releases/tag/v0.3.3), 4 months ago) - esbuild plugin to generate HTML files
+- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) ([v0.3.3](https://github.com/craftamap/esbuild-plugin-html/releases/tag/v0.3.3), 5 months ago) - esbuild plugin to generate HTML files
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.5.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.5.0), 8 months ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 1 year ago) - inoffical Bitbucket.org command line tool
 
