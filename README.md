@@ -6,8 +6,8 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/shopping-list](https://github.com/craftamap/shopping-list) -  (today)
-- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (4 days ago)
+- [craftamap/shopping-list](https://github.com/craftamap/shopping-list) -  (1 day ago)
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (5 days ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (2 weeks ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (2 weeks ago)
 - [craftamap/telegram-export-parser](https://github.com/craftamap/telegram-export-parser) - Python script to parse telegram html chat logs exported by the telegram desktop client. (1 month ago)
