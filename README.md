@@ -6,19 +6,19 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
+- [craftamap/adventofcode2022](https://github.com/craftamap/adventofcode2022) -  (1 day ago)
 - [craftamap/shopping-list](https://github.com/craftamap/shopping-list) - A shopping list app built with deno, fresh and sqlite (1 month ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (2 months ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (3 months ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (3 months ago)
-- [craftamap/telegram-export-parser](https://github.com/craftamap/telegram-export-parser) - Python script to parse telegram html chat logs exported by the telegram desktop client. (4 months ago)
 
 #### 🌱 My latest projects
 
+- [craftamap/adventofcode2022](https://github.com/craftamap/adventofcode2022) - 
 - [craftamap/shopping-list](https://github.com/craftamap/shopping-list) - A shopping list app built with deno, fresh and sqlite
 - [craftamap/shog](https://github.com/craftamap/shog) - this is just me testing out wish, a library to build SSH apps
 - [craftamap/iceportal-api](https://github.com/craftamap/iceportal-api) - iceportal-api is a Golang client implementation to interact with the REST API of iceportal.de when connected to the WiFi-Network offered in German ICE Trains.
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files
-- [craftamap/spotimerge-react](https://github.com/craftamap/spotimerge-react) - spotimerge-react is a &#34;spotimerge&#34; implementation built in react, using zustand as state management.
 
 #### 🔭 Latest releases I've contributed to
 
