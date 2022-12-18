@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/adventofcode2022](https://github.com/craftamap/adventofcode2022) -  (3 days ago)
+- [craftamap/adventofcode2022](https://github.com/craftamap/adventofcode2022) -  (4 days ago)
 - [craftamap/shopping-list](https://github.com/craftamap/shopping-list) - A shopping list app built with deno, fresh and sqlite (1 month ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (3 months ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (3 months ago)
