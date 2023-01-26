@@ -6,8 +6,8 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/matebabe](https://github.com/craftamap/matebabe) - A toy JVM implementation targeting java 11 (4 days ago)
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (3 weeks ago)
+- [craftamap/matebabe](https://github.com/craftamap/matebabe) - A toy JVM implementation targeting java 11 (5 days ago)
+- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (4 weeks ago)
 - [craftamap/adventofcode2022](https://github.com/craftamap/adventofcode2022) -  (1 month ago)
 - [craftamap/shopping-list](https://github.com/craftamap/shopping-list) - A shopping list app built with deno, fresh and sqlite (3 months ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (4 months ago)
@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 🔭 Latest releases I've contributed to
 
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) ([v0.5.0](https://github.com/craftamap/esbuild-plugin-html/releases/tag/v0.5.0), 3 weeks ago) - esbuild plugin to generate HTML files
+- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) ([v0.5.0](https://github.com/craftamap/esbuild-plugin-html/releases/tag/v0.5.0), 4 weeks ago) - esbuild plugin to generate HTML files
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.2](https://github.com/craftamap/pluploader/releases/tag/v0.8.2), 5 months ago) - A simple plugin uploader for atlassian server tools written in python
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) ([v0.5.0](https://github.com/craftamap/owncast-browser-extension/releases/tag/v0.5.0), 1 year ago) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 
