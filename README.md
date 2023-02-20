@@ -6,8 +6,8 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/shopping-list](https://github.com/craftamap/shopping-list) - A shopping list app built with deno, fresh and sqlite (1 week ago)
-- [craftamap/matebabe](https://github.com/craftamap/matebabe) - A toy JVM implementation targeting java 11 (4 weeks ago)
+- [craftamap/shopping-list](https://github.com/craftamap/shopping-list) - A shopping list app built with deno, fresh and sqlite (1 day ago)
+- [craftamap/matebabe](https://github.com/craftamap/matebabe) - A toy JVM implementation targeting java 11 (1 month ago)
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (1 month ago)
 - [craftamap/adventofcode2022](https://github.com/craftamap/adventofcode2022) -  (1 month ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (5 months ago)
