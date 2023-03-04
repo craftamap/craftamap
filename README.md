@@ -6,11 +6,11 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (3 days ago)
-- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (3 days ago)
+- [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (1 day ago)
+- [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (4 days ago)
+- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (4 days ago)
 - [craftamap/shopping-list](https://github.com/craftamap/shopping-list) - A shopping list app built with deno, fresh and sqlite (1 week ago)
 - [craftamap/matebabe](https://github.com/craftamap/matebabe) - A toy JVM implementation targeting java 11 (1 month ago)
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (2 months ago)
 
 #### 🌱 My latest projects
 
