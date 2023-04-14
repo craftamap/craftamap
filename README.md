@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (1 day ago)
+- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (2 days ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (1 month ago)
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (1 month ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 month ago)
