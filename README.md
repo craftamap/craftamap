@@ -6,19 +6,19 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (1 day ago)
+- [craftamap/csv-to-cospend](https://github.com/craftamap/csv-to-cospend) -  (1 day ago)
+- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (2 days ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (1 month ago)
-- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (1 month ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 month ago)
-- [craftamap/shopping-list](https://github.com/craftamap/shopping-list) - A shopping list app built with deno, fresh and sqlite (1 month ago)
+- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (1 month ago)
 
 #### 🌱 My latest projects
 
+- [craftamap/csv-to-cospend](https://github.com/craftamap/csv-to-cospend) - 
 - [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app
 - [craftamap/matebabe](https://github.com/craftamap/matebabe) - A toy JVM implementation targeting java 11
 - [craftamap/adventofcode2022](https://github.com/craftamap/adventofcode2022) - 
 - [craftamap/shopping-list](https://github.com/craftamap/shopping-list) - A shopping list app built with deno, fresh and sqlite
-- [craftamap/shog](https://github.com/craftamap/shog) - this is just me testing out wish, a library to build SSH apps
 
 #### 🔭 Latest releases I've contributed to
 
