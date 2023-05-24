@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (3 days ago)
+- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (4 days ago)
 - [craftamap/csv-to-cospend](https://github.com/craftamap/csv-to-cospend) -  (1 month ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (2 months ago)
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (2 months ago)
@@ -23,7 +23,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 #### 🔭 Latest releases I've contributed to
 
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) ([v0.5.0](https://github.com/craftamap/esbuild-plugin-html/releases/tag/v0.5.0), 4 months ago) - esbuild plugin to generate HTML files
-- [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.2](https://github.com/craftamap/pluploader/releases/tag/v0.8.2), 8 months ago) - A simple plugin uploader for atlassian server tools written in python
+- [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.2](https://github.com/craftamap/pluploader/releases/tag/v0.8.2), 9 months ago) - A simple plugin uploader for atlassian server tools written in python
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) ([v0.2.1](https://github.com/craftamap/atlas-gonnect/releases/tag/v0.2.1), 2 years ago) - An Atlassian Connect Framework written in Golang
 
 #### 📜 My recent blog posts
