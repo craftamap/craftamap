@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (1 month ago)
+- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (1 day ago)
 - [craftamap/csv-to-cospend](https://github.com/craftamap/csv-to-cospend) -  (2 months ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (3 months ago)
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (3 months ago)
@@ -34,11 +34,11 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 #### 🦚 And here's a list of projects I'm proud of
 
 
+- [sourbuddy](https://siegelfabian.de/projects/2023/sourbuddy/) (2 months ago)
+- [esbuild-plugin-html](https://siegelfabian.de/projects/2021/esbuild-plugin-html/) (2 years ago)
+- [Owncast Browser Extension](https://siegelfabian.de/projects/2021/owncast-browser-extension/) (2 years ago)
 - [bb](https://siegelfabian.de/projects/2021/bb/) (2 years ago)
 - [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (2 years ago)
-- [Atlas Gonnect](https://siegelfabian.de/projects/2020/atlas-gonnect/) (3 years ago)
-- [pluploader](https://siegelfabian.de/projects/2020/pluploader/) (3 years ago)
-- [Spotimerge](https://siegelfabian.de/projects/2019/spotimerge/) (4 years ago)
 
 #### 📫 How to reach me
 
