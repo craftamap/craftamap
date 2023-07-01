@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (6 days ago)
+- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (1 week ago)
 - [craftamap/csv-to-cospend](https://github.com/craftamap/csv-to-cospend) -  (2 months ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (3 months ago)
 - [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) - An Atlassian Connect Framework written in Golang (4 months ago)
@@ -34,7 +34,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 #### 🦚 And here's a list of projects I'm proud of
 
 
-- [sourbuddy](https://siegelfabian.de/projects/2023/sourbuddy/) (2 months ago)
+- [sourbuddy](https://siegelfabian.de/projects/2023/sourbuddy/) (3 months ago)
 - [esbuild-plugin-html](https://siegelfabian.de/projects/2021/esbuild-plugin-html/) (2 years ago)
 - [Owncast Browser Extension](https://siegelfabian.de/projects/2021/owncast-browser-extension/) (2 years ago)
 - [bb](https://siegelfabian.de/projects/2021/bb/) (2 years ago)
