@@ -9,7 +9,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (1 week ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 week ago)
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (2 weeks ago)
-- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (3 weeks ago)
+- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (4 weeks ago)
 - [craftamap/csv-to-cospend](https://github.com/craftamap/csv-to-cospend) - git-interactive like UI for approving banking bills from CSVs into Cospend (3 months ago)
 
 #### 🌱 My latest projects
