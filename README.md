@@ -10,7 +10,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 month ago)
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (1 month ago)
 - [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (1 month ago)
-- [craftamap/csv-to-cospend](https://github.com/craftamap/csv-to-cospend) - git-interactive like UI for approving banking bills from CSVs into Cospend (3 months ago)
+- [craftamap/csv-to-cospend](https://github.com/craftamap/csv-to-cospend) - git-interactive like UI for approving banking bills from CSVs into Cospend (4 months ago)
 
 #### 🌱 My latest projects
 
