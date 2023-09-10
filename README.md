@@ -40,7 +40,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 - [esbuild-plugin-html](https://siegelfabian.de/projects/2021/esbuild-plugin-html/) (2 years ago)
 - [Owncast Browser Extension](https://siegelfabian.de/projects/2021/owncast-browser-extension/) (2 years ago)
 - [bb](https://siegelfabian.de/projects/2021/bb/) (2 years ago)
-- [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (2 years ago)
+- [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (3 years ago)
 
 #### 📫 How to reach me
 
