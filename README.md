@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (4 weeks ago)
+- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 day ago)
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (2 months ago)
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (2 months ago)
 - [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (2 months ago)
@@ -22,7 +22,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 🔭 Latest releases I've contributed to
 
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.68](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.68), 1 day ago) - Bitbucket API library for Golang.
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ([v0.9.68](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.68), 2 days ago) - Bitbucket API library for Golang.
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) ([v0.6.1](https://github.com/craftamap/esbuild-plugin-html/releases/tag/v0.6.1), 2 months ago) - esbuild plugin to generate HTML files
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.2](https://github.com/craftamap/pluploader/releases/tag/v0.8.2), 1 year ago) - A simple plugin uploader for atlassian server tools written in python
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 2 years ago) - inoffical Bitbucket.org command line tool
