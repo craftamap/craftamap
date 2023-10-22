@@ -10,7 +10,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (1 week ago)
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (3 months ago)
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (3 months ago)
-- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (3 months ago)
+- [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app (4 months ago)
 
 #### 🌱 My latest projects
 
