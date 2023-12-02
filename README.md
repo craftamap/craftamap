@@ -6,19 +6,19 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
+- [craftamap/adventofcode2023](https://github.com/craftamap/adventofcode2023) -  (1 day ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 month ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (1 month ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (1 month ago)
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (4 months ago)
-- [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) - esbuild plugin to generate HTML files (5 months ago)
 
 #### 🌱 My latest projects
 
+- [craftamap/adventofcode2023](https://github.com/craftamap/adventofcode2023) - 
 - [craftamap/csv-to-cospend](https://github.com/craftamap/csv-to-cospend) - git-interactive like UI for approving banking bills from CSVs into Cospend
 - [craftamap/sourbuddy](https://github.com/craftamap/sourbuddy) - your friendly soughdough companion app
 - [craftamap/matebabe](https://github.com/craftamap/matebabe) - A toy JVM implementation targeting java 11
 - [craftamap/adventofcode2022](https://github.com/craftamap/adventofcode2022) - 
-- [craftamap/shopping-list](https://github.com/craftamap/shopping-list) - A shopping list app built with deno, fresh and sqlite
 
 #### 🔭 Latest releases I've contributed to
 
