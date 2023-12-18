@@ -7,8 +7,8 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 #### 👷 Check out what I'm currently working on
 
 - [craftamap/adventofcode2023](https://github.com/craftamap/adventofcode2023) -  (1 week ago)
-- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (1 month ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (1 month ago)
+- [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (1 month ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (2 months ago)
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) - Bitbucket API library for Golang. (5 months ago)
 
