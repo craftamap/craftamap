@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/adventofcode2023](https://github.com/craftamap/adventofcode2023) -  (2 weeks ago)
+- [craftamap/adventofcode2023](https://github.com/craftamap/adventofcode2023) -  (3 weeks ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (2 months ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (2 months ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (2 months ago)
@@ -38,7 +38,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 - [sourbuddy](https://siegelfabian.de/projects/2023/sourbuddy/) (9 months ago)
 - [esbuild-plugin-html](https://siegelfabian.de/projects/2021/esbuild-plugin-html/) (2 years ago)
-- [Owncast Browser Extension](https://siegelfabian.de/projects/2021/owncast-browser-extension/) (2 years ago)
+- [Owncast Browser Extension](https://siegelfabian.de/projects/2021/owncast-browser-extension/) (3 years ago)
 - [bb](https://siegelfabian.de/projects/2021/bb/) (3 years ago)
 - [soHappy](https://siegelfabian.de/projects/2020/sohappy/) (3 years ago)
 
