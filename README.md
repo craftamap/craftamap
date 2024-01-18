@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/monkey](https://github.com/craftamap/monkey) - Just my code of &#34;Writing An Interpreter In Go&#34; (2 days ago)
+- [craftamap/monkey](https://github.com/craftamap/monkey) - Just my code of &#34;Writing An Interpreter In Go&#34; (1 day ago)
 - [craftamap/adventofcode2023](https://github.com/craftamap/adventofcode2023) -  (1 month ago)
 - [craftamap/homebrew-tap](https://github.com/craftamap/homebrew-tap) - Pssht - This is my own, litte homebrew tap! Go get yourself a beer! (2 months ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (2 months ago)
