@@ -6,7 +6,7 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 
 #### 👷 Check out what I'm currently working on
 
-- [craftamap/monkey](https://github.com/craftamap/monkey) - Just my code of &#34;Writing An Interpreter In Go&#34; (5 days ago)
+- [craftamap/monkey](https://github.com/craftamap/monkey) - Just my code of &#34;Writing An Interpreter In Go&#34; (6 days ago)
 - [craftamap/hobbit-tracker](https://github.com/craftamap/hobbit-tracker) - A small habit tracker written in Golang and Vue.js (1 month ago)
 - [craftamap/adventofcode2023](https://github.com/craftamap/adventofcode2023) -  (2 months ago)
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) - A simple plugin uploader for atlassian server tools written in python (4 months ago)
