@@ -26,7 +26,6 @@ I'm Fabian, an open-source enthusiast working at K15t. I'm the author of bb, the
 - [craftamap/pluploader](https://github.com/craftamap/pluploader) ([v0.8.3](https://github.com/craftamap/pluploader/releases/tag/v0.8.3), 4 months ago) - A simple plugin uploader for atlassian server tools written in python
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.6.0](https://github.com/craftamap/bb/releases/tag/v0.6.0), 4 months ago) - inoffical Bitbucket.org command line tool
 - [craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) ([v0.6.1](https://github.com/craftamap/esbuild-plugin-html/releases/tag/v0.6.1), 8 months ago) - esbuild plugin to generate HTML files
-- [craftamap/atlas-gonnect](https://github.com/craftamap/atlas-gonnect) ([v0.2.1](https://github.com/craftamap/atlas-gonnect/releases/tag/v0.2.1), 2 years ago) - An Atlassian Connect Framework written in Golang
 
 #### 📜 My recent blog posts
 
